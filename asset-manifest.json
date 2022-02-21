@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "./static/css/main.e89e6b0a.chunk.css",
+    "main.js": "./static/js/main.9e9ca80b.chunk.js",
+    "main.js.map": "./static/js/main.9e9ca80b.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.68ba8770.js",
+    "runtime-main.js.map": "./static/js/runtime-main.68ba8770.js.map",
+    "static/js/2.1383e4f6.chunk.js": "./static/js/2.1383e4f6.chunk.js",
+    "static/js/2.1383e4f6.chunk.js.map": "./static/js/2.1383e4f6.chunk.js.map",
+    "static/js/3.9880ffbe.chunk.js": "./static/js/3.9880ffbe.chunk.js",
+    "static/js/3.9880ffbe.chunk.js.map": "./static/js/3.9880ffbe.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.e89e6b0a.chunk.css.map": "./static/css/main.e89e6b0a.chunk.css.map",
+    "static/js/2.1383e4f6.chunk.js.LICENSE.txt": "./static/js/2.1383e4f6.chunk.js.LICENSE.txt",
+    "static/media/animated-404.2b7cc65a.gif": "./static/media/animated-404.2b7cc65a.gif",
+    "static/media/logo.b56dbe40.png": "./static/media/logo.b56dbe40.png",
+    "static/media/perfect_ticktaktoe.cb509304.png": "./static/media/perfect_ticktaktoe.cb509304.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68ba8770.js",
+    "static/js/2.1383e4f6.chunk.js",
+    "static/css/main.e89e6b0a.chunk.css",
+    "static/js/main.9e9ca80b.chunk.js"
+  ]
+}
